@@ -21,6 +21,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath('../..'))
 
+import sphinx_rtd_theme
 from sphinx_rtd_theme import __version__
 
 # -- General configuration ------------------------------------------------
@@ -32,12 +33,15 @@ from sphinx_rtd_theme import __version__
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc',
+extensions = ['sphinx_rtd_theme',
               'sphinx.ext.githubpages']
 
 # autodoc generation is a bit aggressive and a nuisance when doing heavy
 # text edit cycles.
 # execute "export SPHINX_DEBUG=1" in your terminal to disable
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -58,9 +62,9 @@ author = u'Debayan Ray'
 # built documents.
 #
 # The short X.Y version.
-version = __version__
+# version = __version__
 # The full version, including alpha/beta/rc tags.
-release = __version__
+# release = __version__
 
 # If true, '()' will be appended to :func: etc. cross-reference text.
 #add_function_parentheses = True
@@ -77,9 +81,14 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+# html_theme = 'nature'
+# html_style = "mystyle.css"
+
+# html_theme = "classic"
+# html_theme = "default"
 # html_theme = 'alabaster'
-# html_theme = 'sphinx_rtd_theme'
-html_theme = 'groundwork'
+html_theme = 'sphinx_rtd_theme'
+# html_theme = 'groundwork'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -94,6 +103,21 @@ html_theme = 'groundwork'
 #     'fixed_sidebar': True
 # }
 
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+#     'vcs_pageview_mode': '',
+    'style_nav_header_background': '#9b9b9b',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False,
+}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -104,27 +128,45 @@ html_theme = 'groundwork'
 # "<project> v<release> documentation" by default.
 #
 # html_title = u'test vtest'
-html_title = u'%s' % project
+# html_title = u'%s' % project
+html_title = u'Debayan Ray'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
 # html_short_title = None
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+#
+# html_logo = None
+html_logo = 'assets/mine.png'
+
+# The name of an image file (relative to this directory) to use as a favicon of
+# the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
+# pixels large.
+#
+# html_favicon = None
+html_favicon = 'assets/mine-32x32.ico'
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
 # This is required for the 'alabaster' theme
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
-# html_sidebars = {
-#     '**': [
+html_sidebars = {
+    '**': [
 #         'localtoc.html',
-#         #'about.html',
+#         'about.html',
 #         'navigation.html',
-#         #'relations.html',  # needs 'show_related': True theme option to display
-#         'searchbox.html',
-#         #'donate.html',
-#     ]
-# }
+#         'relations.html',  # needs 'show_related': True theme option to display
+        'searchbox.html'
+    ]
+}
 
 # -- Options for HTMLHelp output ------------------------------------------
 

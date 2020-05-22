@@ -41,11 +41,11 @@ div.documentwrapper {
 }
 
 div.bodywrapper {
-    margin: 0 0 0 220px;
+    margin: 0 0 0 180;
 }
 
 div.sphinxsidebar {
-    width: 220px;
+    width: 180;
 }
 
 hr {
