@@ -1,0 +1,71 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg*
+*.egg-info
+dist
+#build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+#build/
+cover/
+.stestr/
+.coverage*
+!.coveragerc
+.tox
+nosetests.xml
+.testrepository
+.venv
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+pods*.json
+pods*.txt
+cfg/*
+
+# Complexity
+output/*.html
+output/*/index.html
+
+# Sphinx
+#doc/build
+#doc/build/doctrees
+#doc/source/reference/api
+
+# pbr generates these
+AUTHORS
+ChangeLog
+
+# Local settings
+etc/superusers.conf
+etc/users.conf
+etc/roles.conf
+
+# Editors
+*~
+.*.swp
+.*sw?
+.idea/*
+
+# Files created by releasenotes build
+releasenotes/build
