@@ -24,10 +24,12 @@ active developer and **core reviewer** in subprojects, like `Sushy`_ and
 `Proliantutils`_, of `OpenStack Ironic`_ (*Baremetal server provisioning*)
 project.
 
-Moreover I started my career with **C++** and had been with it for the initial
-6 years of my career.
+Moreover I started my career with **C++** and had spent my initial days of my
+career (around 6 years) with it.
 
-In brief, I am an Opensource enthusiast and *I like building cool stuff!*
+I also have a bit of experience in mobile development with Android.
+
+**In brief**, I am an Opensource enthusiast and *I like building cool stuff!*
 
 
 .. _Sushy: https://docs.openstack.org/sushy/latest/
@@ -39,139 +41,25 @@ In brief, I am an Opensource enthusiast and *I like building cool stuff!*
 Experiences
 ###########
 
-Principal Member Technical Staff
-********************************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **Oracle**, Bangalore
-        - February 2019 - Present
-
-   Working towards managing the lifecycle of databases of Fusion applications
-   in Oracle Cloud for SaaS and PaaS. It requires delivering fully automated
-   solutions that deliver software transparently and efficiently to the cloud
-   at scale. Responsibilities include:
-
-   * Full ownership of modules developed and maintained at scale in Oracle
-     Cloud
-   * Mentoring and guiding members of engineering team on various modules of
-     FADB LCM
-
-
-System Software Engineer V
-**************************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **Hewlett Packard Enterprise**, Bangalore
-        - April 2015 - February 2019
-
-   Worked on `OpenStack Ironic`_ module and are the owners of `Ironic iLO
-   drivers`_. Ironic is an OpenStack project which aims to provision bare metal
-   (as opposed to virtual) machines by leveraging common technologies such as
-   PXE boot and IPMI to cover a wide range of hardware, while supporting
-   pluggable drivers to allow vendor-specific functionality to be added.
-   Responsibilities include:
-
-   * Full ownership of features right from design to functionality testing
-     through CI.
-   * Extensive Code review and code contribution in OpenStack. Please refer
-     `my contribution to OpenStack`_ till date.
-   * Involved in the strategy, goals and design for products and translate
-     business needs into structured projects.
-
-.. _OpenStack Ironic: https://docs.openstack.org/ironic/
-.. _Ironic iLO drivers: https://docs.openstack.org/ironic/latest/admin/drivers/ilo.html
-.. _my contribution to OpenStack: http://stackalytics.com/?release=all&project_type=all&user_id=deray
-
-
-Senior Software Developer
-*************************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **Perceptive Software** (now Hyland software), Kolkata
-        - August 2011 - April 2015
-
-   `Perceptive Software`_'s flagship product `ImageNow`_ was positioned on the
-   Gartner's Leaders' Quadrant for Enterprise Content Management (ECM)
-   solutions in 2014.
-
-.. _Perceptive Software: https://www.hyland.com/en/perceptive
-.. _ImageNow: https://www.hyland.com/en/platform/product-suite/perceptive-content
-
-
-System Software Engineer III
-****************************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **Hewlett Packard**, Bangalore
-        - May 2010 - August 2011
-
-   Worked on System Fault Management (**SFM**) product which is a collection of
-   tools for monitoring the health of HP servers and getting information about
-   hardware, such as memory and CPU. It also included WBEM providers for other
-   core hardware components. It belongs to System Manageability domain.
-
-
-Senior Software Specialist
-**************************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **Infosys**, Bangalore
-        - July 2008 - May 2010
-
-   I was primarily deputed to **Yahoo!**'s software development centre in
-   Bangalore. Was part of Yahoo India's global ad-confluencing platform
-   (Beacon platform) development team.
-
-
-Software Developer
-******************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **GoldenSource India Pvt. Ltd.**, Mumbai
-        - October 2007 - July 2008
-
-   I was part of the core development team. `GoldenSource`_ is a market leader
-   in the financial Enterprise Data Management (EDM) industry.
-
-.. _GoldenSource: https://www.thegoldensource.com
-
-
-Software Engineer
-*****************
-
-   .. list-table::
-      :widths: 60 20
-
-      * - **Patni Computer Systems** (now IGATE), Mumbai
-        - July 2005 - October 2007
-
-   I was involved with projects from clients like **Rockwell Automation**,
-   **Trane** and **Zoran Corporation**.
-
+* 2019 - now - :ref:`experiences-oracle` at **Oracle**
+* 2015 - 2019 - :ref:`experiences-hpe` at **HPE (Hewlett Packard Enterprise)**
+* 2011 - 2015 - :ref:`experiences-perceptive` at **Perceptive Software** (now
+  **Hyland**)
+* 2010 - 2011 - :ref:`experiences-hp` at **HP (Hewlett Packard)**
+* 2008 - 2010 - :ref:`experiences-infosys` at **Infosys**
+* 2007 - 2008 - :ref:`experiences-goldensource` at **GoldenSource**
+* 2005 - 2007 - :ref:`experiences-patni` at **Patni**
 
 ####################
 Skills & Proficiency
 ####################
 
 .. list-table::
-   :widths: 30 50
+   :widths: 20 100
    :header-rows: 1
 
    * - Skills
      - Proficiency
-
    * - **Python**
      - Expert
    * - **Java**
@@ -197,8 +85,37 @@ Education
 Contacts
 ########
 
-| Email: debayan.ray@gmail.com
-| Phone: (+91) 9830520464
-| Skype: ray_debayan
-| GitHub: https://github.com/debayanray
-| LinkedIn: https://in.linkedin.com/in/debayanray
+.. list-table::
+   :widths: 8 40
+
+   * - |email-pic|
+     - debayan.ray@gmail.com
+   * - |phone-pic|
+     - (+91) 9830520464
+   * - |skype-pic|
+     - ray_debayan
+   * - |github-pic|
+     - https://github.com/debayanray
+   * - |linkedin-pic|
+     - https://in.linkedin.com/in/debayanray
+
+
+.. |email-pic| image:: assets/email-20px.png
+   :alt: Email
+   :scale: 75%
+
+.. |phone-pic| image:: assets/phone-20px.png
+   :alt: Phone
+   :scale: 75%
+
+.. |skype-pic| image:: assets/skype-32px.png
+   :alt: Skype
+   :scale: 75%
+
+.. |github-pic| image:: assets/github-32px.png
+   :alt: GitHub
+   :scale: 75%
+
+.. |linkedin-pic| image:: assets/linkedin-24px.png
+   :alt: LinkedIn
+   :scale: 75%
