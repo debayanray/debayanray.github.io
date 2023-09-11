@@ -22,6 +22,7 @@ Staff Software Engineer
 
    * Full ownership of modules developed, maintained, enhanced and most
      importantly feature pushed.
+   * Thriving in a very fast-paced development environment
 
 .. _Data Governance: https://www.alation.com/product/data-governance/
 
@@ -75,7 +76,7 @@ System Software Engineer V
 
 .. _OpenStack Ironic: https://docs.openstack.org/ironic/
 .. _Ironic iLO drivers: https://docs.openstack.org/ironic/latest/admin/drivers/ilo.html
-.. _my contribution to OpenStack: http://stackalytics.com/?release=all&project_type=all&user_id=deray
+.. _my contribution to OpenStack: https://www.stackalytics.io/?user_id=deray&project_type=all&release=all&metric=marks
 
 
 .. _experiences-perceptive:
