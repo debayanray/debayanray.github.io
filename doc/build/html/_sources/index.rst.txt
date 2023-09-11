@@ -8,26 +8,22 @@
 Career Profile
 ##############
 
-I'm a Software Developer, most of the time I work on software applications
-backend, mostly with **Python** and **Java**.
+I'm a Software Developer, most of the time I work on software applications backend,
+mostly with **Python** (these days on Django and DRF frameworks).
 
-I have **15 years of experience** in designing and implementing complex and
-distributed software systems. Also I have a basic knowledge in Linux
-administration/DevOps and work with Kubernetes/Docker.
+I have **18 years of experience** in designing and implementing complex and
+distributed software systems. Also I have a decent knowledge in Linux based development and have
+prior work experience with k8s and Docker.
 
-Sometime back I had also worked on frontend, most of the time with
-**BackboneJS**.
+Long time back I had also worked on frontend, most of the time with **BackboneJS**.
 
-I have also spent a significant amount of time contributing to **opensource
-software** development (predominantly **Openstack**). Played the role of an
-active developer and **core reviewer** in subprojects, like `Sushy`_ and
-`Proliantutils`_, of `OpenStack Ironic`_ (*Baremetal server provisioning*)
-project.
+I have also spent a significant amount of time contributing to **opensource software** development
+(predominantly **Openstack**). Played the role of an active developer and **core reviewer** in
+subprojects, like `Sushy`_ and `Proliantutils`_, of `OpenStack Ironic`_ 
+(*Baremetal server provisioning*) project.
 
-Moreover I started my career with **C++** and had spent my initial days of my
-career (around 6 years) with it.
-
-I also have a bit of experience in mobile development with Android.
+Moreover I started my career with **C++** and had spent my initial days of my career (around 6 years)
+with it.
 
 **In brief**, I am an Opensource enthusiast and *I like building cool stuff!*
 
@@ -41,10 +37,10 @@ I also have a bit of experience in mobile development with Android.
 Experiences
 ###########
 
-* 2019 - now - :ref:`experiences-oracle` at **Oracle**
+* 2021 - now - :ref:`experiences-alation` at **Alation**
+* 2019 - 2021 - :ref:`experiences-oracle` at **Oracle**
 * 2015 - 2019 - :ref:`experiences-hpe` at **HPE (Hewlett Packard Enterprise)**
-* 2011 - 2015 - :ref:`experiences-perceptive` at **Perceptive Software** (now
-  **Hyland**)
+* 2011 - 2015 - :ref:`experiences-perceptive` at **Perceptive Software** (now **Hyland**)
 * 2010 - 2011 - :ref:`experiences-hp` at **HP (Hewlett Packard)**
 * 2008 - 2010 - :ref:`experiences-infosys` at **Infosys**
 * 2007 - 2008 - :ref:`experiences-goldensource` at **GoldenSource**
@@ -63,14 +59,17 @@ Skills & Proficiency
    * - **Python**
      - Expert
    * - **Java**
-     - Expert
+     - Used to be an Expert
    * - Javascript
      - Advanced (not very much in touch right now)
    * - C++
-     - Advanced (long lost love :-) )
+     - Used to be an Expert (long lost love :-) )
    * - **OOPS**
      - Expert
-
+   * - **Designing**
+     - Expert
+   * - **API development**
+     - Expert
 
 #########
 Education

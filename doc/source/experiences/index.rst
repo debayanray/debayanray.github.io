@@ -5,6 +5,27 @@ Company Experiences
 ###################
 
 
+.. _experiences-alation:
+
+Staff Software Engineer
+***********************
+
+   .. list-table::
+      :widths: 60 20
+
+      * - **Alation**, Fully remote
+        - January 2021 - Present
+
+   Developed multiple `Data Governance`_ modules as part Alation. Subject matter
+   expert on Workflows and bulk stewardship and curation at scale.
+   Responsibilities include:
+
+   * Full ownership of modules developed, maintained, enhanced and most
+     importantly feature pushed.
+
+.. _Data Governance: https://www.alation.com/product/data-governance/
+
+
 .. _experiences-oracle:
 
 Principal Member Technical Staff
