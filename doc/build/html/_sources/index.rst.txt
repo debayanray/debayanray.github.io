@@ -66,10 +66,14 @@ Skills & Proficiency
      - Used to be an Expert (long lost love :-) )
    * - **OOPS**
      - Expert
-   * - **Designing**
+   * - **Designing systems**
      - Expert
    * - **API development**
-     - Expert
+     - Guru
+   * - **DB**
+     - Mid level
+   * - **Messaging & RPC**
+     - Mid level
 
 #########
 Education
@@ -78,7 +82,6 @@ Education
 | **BE** in **Electronics Engineering**
 | NIT (formerly REC), Surat
 | **2001 - 2005**
-
 
 ########
 Contacts
